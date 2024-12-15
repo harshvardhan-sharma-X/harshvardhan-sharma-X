@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+🔭 I’m currently working on improving my skills by creating more projects
+🌱 I’m currently learning Advance python and starting to learn the syntax of java
 <!--
 **harshvardhan-sharma-X/harshvardhan-sharma-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
