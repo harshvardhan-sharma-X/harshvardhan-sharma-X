@@ -1,7 +1,7 @@
 ## Hi there 👋
-🔭 I’m currently working on improving my skills by creating more projects.
+I’m currently working on improving my skills by creating more projects.
 <br>
-🌱 I’m currently learning Advance python and starting to learn the syntax of java.
+I’m currently learning Advance Electronics and starting to learn Edge AI.
 <!--
 **harshvardhan-sharma-X/harshvardhan-sharma-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
